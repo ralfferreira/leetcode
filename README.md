@@ -7,15 +7,12 @@ This repository contains solutions to challenges from [LeetCode](https://leetcod
 The solutions are structured as follows:
 ```
 leetcode/
-│── easy/
-│   ├── problem_1.cpp
-│   ├── problem_2.cpp
-│── medium/
-│   ├── problem_3.py
-│   ├── problem_4.cpp
-│── hard/
-│   ├── problem_5.cpp
-│   ├── problem_6.py
+├── array/
+│   ├── easy/
+│   │   ├── problem_1.cpp
+├── linked_list/
+│   ├── hard/
+│   │   ├── problem_1.cpp
 │── README.md
 ```
 Each file contains the problem description, the approach used, and the implemented solution.
